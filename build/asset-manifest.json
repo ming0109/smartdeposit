@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.079935f3.chunk.css",
-    "main.js": "/static/js/main.bd0ed96f.chunk.js",
-    "main.js.map": "/static/js/main.bd0ed96f.chunk.js.map",
+    "main.js": "/static/js/main.ad32c2fc.chunk.js",
+    "main.js.map": "/static/js/main.ad32c2fc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b240f91f.js",
     "runtime-main.js.map": "/static/js/runtime-main.b240f91f.js.map",
     "static/js/2.fa40cdc1.chunk.js": "/static/js/2.fa40cdc1.chunk.js",
     "static/js/2.fa40cdc1.chunk.js.map": "/static/js/2.fa40cdc1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b690138ea62a0947e82f54381cc3925d.js": "/precache-manifest.b690138ea62a0947e82f54381cc3925d.js",
+    "precache-manifest.a91f4885e07ef53eaf9f3a7283037462.js": "/precache-manifest.a91f4885e07ef53eaf9f3a7283037462.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.079935f3.chunk.css.map": "/static/css/main.079935f3.chunk.css.map",
     "static/media/App.css": "/static/media/Disadvantages.03e121a0.png",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.b240f91f.js",
     "static/js/2.fa40cdc1.chunk.js",
     "static/css/main.079935f3.chunk.css",
-    "static/js/main.bd0ed96f.chunk.js"
+    "static/js/main.ad32c2fc.chunk.js"
   ]
 }
